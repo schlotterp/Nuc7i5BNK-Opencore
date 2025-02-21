@@ -1,6 +1,7 @@
-Nuc7i5BNK Sequoia 15.3.1
+Nuc7i5BNK on Bios 0094
+
+Sequoia 15.3.1
 - SMBIOS MacMini8,1 
-- Intel Nuc7i5BNK
 - Opencore 1.0.3
 - Sequoia 15.3.1
 - Wifi (with itlwm.kext and HeliPort), native Intel Wifi (with Airport) not working
@@ -11,9 +12,8 @@ Nuc7i5BNK Sequoia 15.3.1
 
 You have to generate a MLB, ROM, SystemserialNumber and SystemUUID. 
 
-Nuc7i5BNK Sonoma 14.7
+Sonoma 14.7
 - SMBIOS MacMini8,1 
-- Intel Nuc7i5BNK
 - Opencore 1.0.3
 - Sonoma 1.4
 - native Wifi
