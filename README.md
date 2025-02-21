@@ -1,3 +1,4 @@
+- SMBIOS MacMini8,1 
 - Intel Nuc7i5BNK
 - Opencore 1.0.3
 - Sequoia 15.3.1
@@ -7,4 +8,4 @@
 - HDMI Audio working
 - Microphone/Siri not working
 
-Check if all installed kexts are necessary, if not, please report.
+Check if all installed kexts are necessary and if the selecet SMBIOS makes sense, if not, please report.
