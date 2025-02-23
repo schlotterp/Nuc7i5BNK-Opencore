@@ -9,6 +9,7 @@ Sequoia 15.3.1
 - Samsung EVO 960 1TB
 - HDMI Audio working
 - Microphone/Siri not working
+- USB-C Port working (tested wih Anker USB-C Hub with USB-3 Ports and HDMI)
 
 You have to generate a MLB, ROM, SystemserialNumber and SystemUUID. 
 
