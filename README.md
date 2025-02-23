@@ -10,6 +10,10 @@ Sequoia 15.3.1
 - HDMI Audio working
 - Microphone/Siri not working
 - USB-C Port working (tested wih Anker USB-C Hub with USB-3 Ports and HDMI)
+- iMessage working
+- iPhone as Webcam working (tested with iPhone 12 Mini via Cable)
+- Airplay working
+- Graphic hardware acceleration working
 
 You have to generate a MLB, ROM, SystemserialNumber and SystemUUID. 
 
