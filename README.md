@@ -1,4 +1,4 @@
-Nuc7i5BNK on Bios 0094
+Nuc7i5BNK on Bios 0093
 
 Sequoia 15.3.1
 - SMBIOS MacMini8,1 
